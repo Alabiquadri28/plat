@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/plat/static/css/main.62ea5e1e.css",
+    "main.js": "/plat/static/js/main.2c62684b.js",
+    "static/js/787.c1112931.chunk.js": "/plat/static/js/787.c1112931.chunk.js",
+    "static/media/image.jpg": "/plat/static/media/image.0de6dd7d7adb90a12a86.jpg",
+    "static/media/vasily-koloda-8CqDvPuo_kI-unsplash.jpg": "/plat/static/media/vasily-koloda-8CqDvPuo_kI-unsplash.abcd72c911918f637bf0.jpg",
+    "static/media/aka (2).png": "/plat/static/media/aka (2).9089b83c09ccc22770a7.png",
+    "static/media/ada (2).png": "/plat/static/media/ada (2).19446498d5b3e5fa24a2.png",
+    "static/media/aza.png": "/plat/static/media/aza.1baa5e2b9e62cf78a62f.png",
+    "static/media/undraw_public_discussion_re_w9up.svg": "/plat/static/media/undraw_public_discussion_re_w9up.b8d1c3b9d8babcf5d75d14dc434c3da0.svg",
+    "static/media/aka (1).png": "/plat/static/media/aka (1).16a719e6c981f08ee1c4.png",
+    "static/media/undraw_scrum_board_re_wk7v.svg": "/plat/static/media/undraw_scrum_board_re_wk7v.30ec3051d5ee9893e9b190e331aad8d3.svg",
+    "static/media/ada (1).png": "/plat/static/media/ada (1).22bb8468df7bfe2371ac.png",
+    "static/media/undraw_mathematics_-4-otb.svg": "/plat/static/media/undraw_mathematics_-4-otb.c8e70400a0d3daedbb230486789e366f.svg",
+    "index.html": "/plat/index.html",
+    "main.62ea5e1e.css.map": "/plat/static/css/main.62ea5e1e.css.map",
+    "main.2c62684b.js.map": "/plat/static/js/main.2c62684b.js.map",
+    "787.c1112931.chunk.js.map": "/plat/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62ea5e1e.css",
+    "static/js/main.2c62684b.js"
+  ]
+}
